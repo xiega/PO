@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\08.11.2022\1_projekt\bin\Debug\net6.0\1_projekt.exe
+C:\Users\student\Desktop\08.11.2022\1_projekt\bin\Debug\net6.0\1_projekt.deps.json
+C:\Users\student\Desktop\08.11.2022\1_projekt\bin\Debug\net6.0\1_projekt.runtimeconfig.json
+C:\Users\student\Desktop\08.11.2022\1_projekt\bin\Debug\net6.0\1_projekt.dll
+C:\Users\student\Desktop\08.11.2022\1_projekt\bin\Debug\net6.0\1_projekt.pdb
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\1_projekt.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\1_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\1_projekt.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\1_projekt.AssemblyInfo.cs
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\1_projekt.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\1_projekt.dll
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\refint\1_projekt.dll
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\1_projekt.pdb
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\1_projekt.genruntimeconfig.cache
+C:\Users\student\Desktop\08.11.2022\1_projekt\obj\Debug\net6.0\ref\1_projekt.dll
