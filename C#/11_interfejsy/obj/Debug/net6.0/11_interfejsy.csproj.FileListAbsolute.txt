@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\bin\Debug\net6.0\11_interfejsy.exe
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\bin\Debug\net6.0\11_interfejsy.deps.json
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\bin\Debug\net6.0\11_interfejsy.runtimeconfig.json
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\bin\Debug\net6.0\11_interfejsy.dll
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\bin\Debug\net6.0\11_interfejsy.pdb
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\11_interfejsy.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\11_interfejsy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\11_interfejsy.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\11_interfejsy.AssemblyInfo.cs
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\11_interfejsy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\11_interfejsy.dll
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\refint\11_interfejsy.dll
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\11_interfejsy.pdb
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\11_interfejsy.genruntimeconfig.cache
+C:\Users\student\Desktop\18_04_2023\11_interfejsy\obj\Debug\net6.0\ref\11_interfejsy.dll

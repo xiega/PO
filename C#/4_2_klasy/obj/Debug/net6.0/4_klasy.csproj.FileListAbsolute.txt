@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\06_12_2022\4_klasy\bin\Debug\net6.0\4_klasy.exe
+C:\Users\student\Desktop\06_12_2022\4_klasy\bin\Debug\net6.0\4_klasy.deps.json
+C:\Users\student\Desktop\06_12_2022\4_klasy\bin\Debug\net6.0\4_klasy.runtimeconfig.json
+C:\Users\student\Desktop\06_12_2022\4_klasy\bin\Debug\net6.0\4_klasy.dll
+C:\Users\student\Desktop\06_12_2022\4_klasy\bin\Debug\net6.0\4_klasy.pdb
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\4_klasy.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\4_klasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\4_klasy.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\4_klasy.AssemblyInfo.cs
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\4_klasy.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\4_klasy.dll
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\refint\4_klasy.dll
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\4_klasy.pdb
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\4_klasy.genruntimeconfig.cache
+C:\Users\student\Desktop\06_12_2022\4_klasy\obj\Debug\net6.0\ref\4_klasy.dll

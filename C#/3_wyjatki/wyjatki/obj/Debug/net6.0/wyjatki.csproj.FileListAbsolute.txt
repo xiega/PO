@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\22_11_2022\wyjatki\bin\Debug\net6.0\wyjatki.exe
+C:\Users\student\Desktop\22_11_2022\wyjatki\bin\Debug\net6.0\wyjatki.deps.json
+C:\Users\student\Desktop\22_11_2022\wyjatki\bin\Debug\net6.0\wyjatki.runtimeconfig.json
+C:\Users\student\Desktop\22_11_2022\wyjatki\bin\Debug\net6.0\wyjatki.dll
+C:\Users\student\Desktop\22_11_2022\wyjatki\bin\Debug\net6.0\wyjatki.pdb
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\wyjatki.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\wyjatki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\wyjatki.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\wyjatki.AssemblyInfo.cs
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\wyjatki.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\wyjatki.dll
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\refint\wyjatki.dll
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\wyjatki.pdb
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\wyjatki.genruntimeconfig.cache
+C:\Users\student\Desktop\22_11_2022\wyjatki\obj\Debug\net6.0\ref\wyjatki.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_kolekcje_tablice_1", "10_kolekcje_tablice_1.csproj", "{AE14B9B5-F714-4D5E-A3B0-4713289B0F2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE14B9B5-F714-4D5E-A3B0-4713289B0F2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE14B9B5-F714-4D5E-A3B0-4713289B0F2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE14B9B5-F714-4D5E-A3B0-4713289B0F2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE14B9B5-F714-4D5E-A3B0-4713289B0F2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {684D79A4-99C3-4D1B-95D8-9BA7733B2B8A}
+	EndGlobalSection
+EndGlobal

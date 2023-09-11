@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Program
+{
+    internal class Person
+    {
+        public string firstName = "";
+        public string lastName = "";
+        
+        public Person() { }
+        public Person(string firstName, string lastName)
+        {
+            this.firstName = firstName;
+            this.lastName = lastName;
+        }
+
+    }
+}

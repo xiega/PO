@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\bin\Debug\net6.0\typy_dynamiczne.exe
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\bin\Debug\net6.0\typy_dynamiczne.deps.json
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\bin\Debug\net6.0\typy_dynamiczne.runtimeconfig.json
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\bin\Debug\net6.0\typy_dynamiczne.dll
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\bin\Debug\net6.0\typy_dynamiczne.pdb
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\typy_dynamiczne.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\typy_dynamiczne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\typy_dynamiczne.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\typy_dynamiczne.AssemblyInfo.cs
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\typy_dynamiczne.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\typy_dynamiczne.dll
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\refint\typy_dynamiczne.dll
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\typy_dynamiczne.pdb
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\typy_dynamiczne.genruntimeconfig.cache
+C:\Users\student\Desktop\06_12_2022\typy_dynamiczne\obj\Debug\net6.0\ref\typy_dynamiczne.dll
